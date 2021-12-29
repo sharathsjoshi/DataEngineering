@@ -8,4 +8,4 @@ Projects planned :
 
 3. When to use blob storage, when to use tables. Types of storages in Azure.
 
-4.
+4.Streaming data.
