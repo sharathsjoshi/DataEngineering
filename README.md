@@ -8,6 +8,8 @@ Projects planned :
 
 3. When to use blob storage, when to use tables. Types of storages in Azure.
 
-4.Streaming data.
+4. Integrated services.
+
+Streaming data.
 
 5. E2E pipelines.
