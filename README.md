@@ -14,9 +14,9 @@ Streaming data.
 
 5. E2E pipelines.
 
-6.
+6. Databricks.
 
-7.
+7. Azure Databricks & CI/CD.
 
 8.
 
