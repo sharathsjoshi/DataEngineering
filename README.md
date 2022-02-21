@@ -18,7 +18,7 @@ Streaming data.
 
 7. Azure Databricks & CI/CD.
 
-8.
+8. Storage 
 
 9.
 
